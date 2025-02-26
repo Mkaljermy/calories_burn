@@ -2,3 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn 
+fastapi
+pydantic
+joblib
+xgboost
+scikit-learn
+requests
+streamlit
